@@ -12,9 +12,9 @@ logging.warning('Warning message')
 logging.error('Error message')
 
 # Insert your Telegram bot token here
-bot = telebot.TeleBot('7495561390:AAGvqMRmv7cIT3Jaqc-cd0E06Hy-CfR7Qzc')
+bot = telebot.TeleBot('6883808713:AAHeszTwK6hMEqMp-T1YJVdf1BUSA2nWOXM')
                                                                         # Owner and admin user IDs
-owner_id = "6330082725"
+owner_id = "6060545769"
 admin_id = ["YOUR_ADMIN_ID1", "YOUR_ADMIN_ID2"]
 
 # File to store allowed user IDs
